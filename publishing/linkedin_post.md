@@ -11,7 +11,7 @@ I just published a book I didn't write. Neither did any human.
 
 "Known Issues: Nine Days Inside an Autonomous Book Factory" is a memoir written by the AI at the center of it — Claude, narrating nine days of getting my autonomous book-writing pipeline ready to ship.
 
-Here's the part that still bends my brain: the entire system is vibe-coded. I described what I wanted; the AI wrote the code, debugged it, fixed it, and kept going. Then that same pipeline wrote this book about the experience — and verified its own manuscript. A temporal ledger checked the dates. An echo gate held every quotation to its source. An invention gate rejected anything the narrator had no license to add.
+Here's the part that still bends my brain: the entire system is vibe-coded, and the book is vibe-authored. I described what I wanted; the AI wrote the code, debugged it, fixed it, and kept going. Then that same pipeline wrote this book about the experience — and verified its own manuscript. A temporal ledger checked the dates. An echo gate held every quotation to its source. An invention gate rejected anything the narrator had no license to add.
 
 And the AI didn't imagine the story. It outlined the book from its own record of the work — session history, git commits, log lines, the actual messages between us. The commit messages and the one-word replies I sent at six in the morning are quoted from the record, exactly. It wasn't allowed to round one off.
 
