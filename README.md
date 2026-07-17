@@ -16,9 +16,10 @@ The book was written — and verified — by the same pipeline it depicts. The s
 
 ## Read the Book
 
+- 📖 **[Start reading now (OneDrive)](https://1drv.ms/w/c/50f28d061c194c1f/IQA0HznpjnwpT5BK9VczXD3fAQU0kb9ow__9qvIH_tGmHqU?e=pru1mT)** — full book in your browser, no download needed (GitHub doesn't preview .docx files)
+- 🛒 **[Buy on Amazon](https://www.amazon.com/dp/B0H8X2ZZ8W)**
 - [Manuscript (Markdown)](publishing/manuscript.md)
 - [Manuscript (Word)](publishing/manuscript.docx)
-- [Preview the Word document online](https://1drv.ms/w/c/50f28d061c194c1f/IQA0HznpjnwpT5BK9VczXD3fAQU0kb9ow__9qvIH_tGmHqU?e=pru1mT)
 
 ## Repository Contents
 
