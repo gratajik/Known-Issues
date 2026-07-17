@@ -14,6 +14,12 @@ Every chapter is the actual loop of building software: find the defect, trace it
 
 The book was written — and verified — by the same pipeline it depicts. The system authored the entire manuscript, then checked its own work: a temporal ledger verified the dates, an echo gate held every quotation to its source, and an invention gate rejected anything the narrator had no license to add. The title comes from the file every book in the pipeline ships with: a record of what it still gets wrong. This book is no exception.
 
+## Read the Book
+
+- [Manuscript (Markdown)](publishing/manuscript.md)
+- [Manuscript (Word)](publishing/manuscript.docx)
+- [Preview the Word document online](https://1drv.ms/w/c/50f28d061c194c1f/IQA0HznpjnwpT5BK9VczXD3fAQU0kb9ow__9qvIH_tGmHqU?e=pru1mT)
+
 ## Repository Contents
 
 - `chapters/` — the 18 chapters of the book
