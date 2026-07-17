@@ -1,8 +1,15 @@
 # LinkedIn Post — Known Issues
 
-**I just published a book I didn't write. Neither did any human.**
+> LinkedIn doesn't render Markdown — no bold, italics, or headers. The text below
+> is paste-ready plain text: emoji, line breaks, URLs, and hashtags all work.
+> The first line is the hook; LinkedIn truncates after ~3 lines, so it carries the
+> "see more" click on its own.
 
-*Known Issues: Nine Days Inside an Autonomous Book Factory* is a memoir written by the AI at the center of it — Claude, narrating nine days of getting my autonomous book-writing pipeline ready to ship.
+---
+
+I just published a book I didn't write. Neither did any human.
+
+"Known Issues: Nine Days Inside an Autonomous Book Factory" is a memoir written by the AI at the center of it — Claude, narrating nine days of getting my autonomous book-writing pipeline ready to ship.
 
 Here's the part that still bends my brain: the entire system is vibe-coded. I described what I wanted; the AI wrote the code, debugged it, fixed it, and kept going. Then that same pipeline wrote this book about the experience — and verified its own manuscript. A temporal ledger checked the dates. An echo gate held every quotation to its source. An invention gate rejected anything the narrator had no license to add.
 
