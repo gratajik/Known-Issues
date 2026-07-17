@@ -4,7 +4,7 @@
 
 **Greg Ratajik & Claude**
 
-![Cover](publishing/covers/Tan.png)
+<img src="publishing/covers/Tan.png" alt="Cover" width="400">
 
 ## About the Book
 
