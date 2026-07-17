@@ -19,7 +19,13 @@ I've been trying to get AI to write full-length fiction since late 2022. The lat
 
 Some background, because the road here was ugly.
 
-In March 2024 I tried to one-shot a novel with just "write next chapter" on repeat, no guidance. The first 30% was coherent. By chapter 40 it had gone completely insane. This is one sentence from it, verbatim:
+In March 2024 I tried to one-shot a novel with just "write next chapter" on repeat, no guidance. The first 30% was coherent — not great writing, but decent. Here's how it opened:
+
+> *The rat's eyes caught the beam of my flashlight, twin rubies glowing in the darkness of the basement. Something about those eyes made me pause. I'd been in pest control for nearly a decade, seen thousands of rats, but something was different about this one. It didn't scurry away like they usually did. It watched me. Assessed me.*
+>
+> *I swear to God it smiled.*
+
+By chapter 40 it had gone completely insane. This is one sentence from it, verbatim:
 
 > *"Bridge structure development documented in 47% of all personnel within evolutionary integration facility," Dr. Walker confirmed, statistical precision reflecting expanded awareness beyond conventional parameters, beyond institutional constraint, beyond artificial boundaries between research subject and security personnel, between contained and container, between what researched and what was being researched through responsive process increasingly participating in developmental phenomena initially classified as external to it, as separate from it, as target of institutional response rather than evolutionary potential within responsive framework itself.*
 
